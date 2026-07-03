@@ -1,0 +1,1042 @@
+drug_name,drug_id,disease_name,disease_id
+cefuroxime,CHEBI:3515,gonorrhea,MONDO:0004277
+pravastatin,CHEBI:63618,"hyperlipidemia, familial combined, LPL related",MONDO:0007759
+ciprofloxacin,CHEBI:100241,shigellosis,MONDO:0019345
+lumiracoxib,CHEBI:73044,osteoarthritis,MONDO:0005178
+metronidazole,CHEBI:6909,trichomoniasis,MONDO:0002154
+favipiravir,CHEBI:134722,Influenza caused by pandemic influenza virus,UMLS:C4304383
+calcium citrate,PUBCHEM.COMPOUND:13136,Hypocalcemia,HP:0002901
+allopurinol,CHEBI:40279,Calcium renal calculus,UMLS:C1959799
+aceclofenac,CHEBI:31159,frozen shoulder,MONDO:0006763
+rosuvastatin,CHEBI:38545,homozygous familial hypercholesterolemia,MONDO:0018328
+dehydrocholic acid,CHEBI:31459,biliary tract disorder,MONDO:0004868
+prednisolone,CHEBI:8378,idiopathic acute eosinophilic pneumonia,MONDO:0019122
+dronedarone,CHEBI:50659,atrial fibrillation,MONDO:0004981
+tetracycline,CHEBI:27902,syphilis,MONDO:0005976
+gatifloxacin,CHEBI:5280,Klebsiella cystitis,UMLS:C0520775
+cefuroxime,CHEBI:3515,streptococcal meningitis,MONDO:0001316
+norgestimate,CHEBI:50815,postmenopausal atrophic vaginitis,MONDO:0001410
+chlophedianol,CHEBI:135207,Nasal congestion,HP:0001742
+clavulanic acid,CHEBI:48947,Escherichia coli septicemia,UMLS:C0276088
+diazepam,CHEBI:49575,epilepsy,MONDO:0005027
+ceftizoxime,CHEBI:553473,escherichia coli infection,MONDO:0020920
+permethrin,CHEBI:34911,Pediculus humanus corporis infestation,MONDO:0003482
+daptomycin,CHEBI:600103,Bacteremia caused by Staphylococcus aureus,UMLS:C1142423
+prednisolone,CHEBI:8378,follicular lymphoma,MONDO:0018906
+streptomycin,CHEBI:17076,Acute tuberculosis,UMLS:C0275959
+cefotaxime,CHEBI:94427,Bacterial infection caused by Klebsiella pneumoniae,UMLS:C0343402
+sorafenib,CHEBI:50924,renal cell carcinoma,MONDO:0005086
+aspirin,CHEBI:15365,Arthralgia,HP:0002829
+cinnarizine,CHEBI:31403,central nervous system origin vertigo,MONDO:0002317
+cefoxitin,CHEBI:209807,Sepsis caused by Bacteroides,UMLS:C0276064
+thalidomide,CHEBI:74947,POEMS syndrome,MONDO:0017364
+azithromycin,CHEBI:2955,staphylococcus aureus infection,MONDO:0005545
+prilocaine,CHEBI:8404,premature ejaculation,MONDO:0001780
+nicotinamide,CHEBI:17154,pellagra,MONDO:0019975
+antazoline,CHEBI:84115,atopic conjunctivitis,MONDO:0005642
+oxytetracycline,CHEBI:133011,stomatitis,MONDO:0004842
+letrozole,CHEBI:6413,Unexplained infertility,UMLS:C0404585
+meropenem,CHEBI:43968,bacterial meningitis,MONDO:0006670
+bempedoic acid,CHEBI:149601,Atherosclerotic occlusive disease,UMLS:C0543822
+sotagliflozin,CHEBI:229226,type 2 diabetes mellitus,MONDO:0005148
+beclometasone,CHEBI:3001,vasomotor rhinitis,MONDO:0006004
+ofloxacin,CHEBI:194135,Acute osteomyelitis,UMLS:C0158371
+meropenem,CHEBI:43968,streptococcal meningitis,MONDO:0001316
+norfloxacin,CHEBI:100246,Acute osteomyelitis,UMLS:C0158371
+sulbactam,CHEBI:9321,Pneumonia caused by Acinetobacter,UMLS:C2063075
+neomycin,CHEBI:7507,blepharoconjunctivitis,MONDO:0002307
+cefamandole,CHEBI:3480,Escherichia coli septicemia,UMLS:C0276088
+imipenem,CHEBI:471744,arthropathy,MONDO:0006816
+betamethasone,CHEBI:3077,inflammatory bowel disease,MONDO:0005265
+gliclazide,CHEBI:31654,type 2 diabetes mellitus,MONDO:0005148
+warfarin,CHEBI:10033,intracranial embolism,MONDO:0006809
+prednisolone,CHEBI:8378,Punctate keratopathy,UMLS:C0423234
+everolimus,CHEBI:68478,breast carcinoma,MONDO:0004989
+paclitaxel,CHEBI:45863,open-angle glaucoma,MONDO:0005338
+ertapenem,CHEBI:404903,Haemophilus influenzae pneumonia,UMLS:C0276026
+doxycycline,PUBCHEM.COMPOUND:54671203,acute gonococcal epididymo-orchitis,MONDO:0001125
+cefonicid,CHEBI:3491,arthropathy,MONDO:0006816
+cefotaxime,CHEBI:94427,Pneumonia caused by Pseudomonas,UMLS:C0155860
+cefazolin,CHEBI:474053,streptococcal pneumonia,MONDO:0005972
+galantamine,CHEBI:42944,Alzheimer disease,MONDO:0004975
+prednisolone,CHEBI:8378,rheumatoid arthritis,MONDO:0008383
+zinc acetate,PUBCHEM.COMPOUND:11192,Zinc deficiency,UMLS:C0235950
+ticarcillin,CHEBI:9587,Proteus pneumonia,UMLS:C1260917
+trilostane,CHEBI:32260,adrenal gland hyperfunction,MONDO:0006640
+phenylbutyrate,CHEBI:41500,amyotrophic lateral sclerosis,MONDO:0004976
+azatadine,CHEBI:2946,common cold,MONDO:0005709
+sulfadiazine,CHEBI:9328,Toxoplasmosis associated with acquired immunodeficiency syndrome,UMLS:C1720498
+ciprofibrate,CHEBI:50867,"hyperlipidemia, familial combined, LPL related",MONDO:0007759
+doxycycline,PUBCHEM.COMPOUND:54671203,trachoma,MONDO:0001249
+piperacillin,CHEBI:8232,Klebsiella cystitis,UMLS:C0520775
+clocortolone pivalate,CHEBI:59582,primary cutaneous T-cell non-Hodgkin lymphoma,MONDO:0000607
+niraparib,CHEBI:176844,peritoneum cancer,MONDO:0002087
+minocycline,CHEBI:50694,relapsing fever,MONDO:0019633
+bepridil,CHEBI:3061,Angina pectoris,HP:0001681
+triamcinolone,CHEBI:9667,eye disorder,MONDO:0005328
+cefaclor,CHEBI:3478,Recurrent lower respiratory tract infections,HP:0002783
+doxycycline,PUBCHEM.COMPOUND:54671203,bacterial pneumonia,MONDO:0004652
+prednisone,CHEBI:8382,exfoliative dermatitis,MONDO:0043233
+cefdinir,CHEBI:3485,staphylococcus aureus infection,MONDO:0005545
+armodafinil,CHEBI:77590,narcolepsy,MONDO:0021107
+prednisone,CHEBI:8382,nephrotic syndrome,MONDO:0005377
+triamcinolone,CHEBI:9667,epicondylitis,MONDO:0001875
+amikacin,CHEBI:2637,bacterial pneumonia,MONDO:0004652
+ertapenem,CHEBI:404903,bacterial pneumonia,MONDO:0004652
+minocycline,CHEBI:50694,acute gonococcal endometritis,MONDO:0004264
+bacampicillin,CHEBI:2968,pharyngitis,MONDO:0002258
+alfacalcidol,CHEBI:31186,hypoparathyroidism,MONDO:0001220
+sulfamethoxazole,CHEBI:9332,Haemophilus influenzae otitis media,UMLS:C0276027
+phenytoin,CHEBI:8107,epilepsy,MONDO:0005027
+chlorhexidine,CHEBI:3614,gingivitis,MONDO:0002508
+meclofenamic acid,CHEBI:6710,Pain,HP:0012531
+oxacillin,CHEBI:7809,sinusitis,MONDO:0005961
+lenvatinib,CHEBI:85994,Primary thymic carcinoma,UMLS:C4302369
+icatibant,CHEBI:68556,hereditary angioedema,MONDO:0019623
+cortisol,CHEBI:5783,uveitis,MONDO:0020283
+carbinoxamine,CHEBI:3398,seasonal allergic rhinitis,MONDO:0005324
+salicylic acid,CHEBI:16914,allergic rhinitis,MONDO:0011786
+betamethasone,CHEBI:3077,idiopathic acute eosinophilic pneumonia,MONDO:0019122
+cimetidine,CHEBI:3699,Upper gastrointestinal hemorrhage,UMLS:C0041909
+ceftizoxime,CHEBI:553473,Proteus pneumonia,UMLS:C1260917
+butamben,CHEBI:3231,Pruritus,HP:0000989
+diclofenac,CHEBI:47381,"Neck, shoulder and arm syndrome",UMLS:C0877543
+progesterone,CHEBI:17026,Metastatic malignant neoplasm to kidney,UMLS:C0153685
+azelaic acid,CHEBI:48131,acne,MONDO:0011438
+ruxolitinib,CHEBI:66919,acquired polycythemia vera,MONDO:0009891
+ofloxacin,CHEBI:194135,Proteus urinary tract infection,UMLS:C0577709
+tolvaptan,CHEBI:231425,Hyponatremia,HP:0002902
+efavirenz,CHEBI:119486,HIV infectious disease,MONDO:0005109
+clavulanic acid,CHEBI:48947,bacterial urinary tract infection,MONDO:0005247
+verapamil,CHEBI:77733,hypertensive disorder,MONDO:0005044
+cinnarizine,CHEBI:31403,Nausea,HP:0002018
+ergotamine,CHEBI:64318,migraine disorder,MONDO:0005277
+rivastigmine,CHEBI:8874,Alzheimer disease,MONDO:0004975
+valacyclovir,CHEBI:35854,chickenpox,MONDO:0005700
+fenoldopam,CHEBI:5002,Hypertensive Urgency,UMLS:C0745138
+loracarbef,CHEBI:47544,chronic pyelonephritis,MONDO:0001110
+celecoxib,CHEBI:41423,osteoarthritis,MONDO:0005178
+lurasidone,CHEBI:70735,bipolar disorder,MONDO:0004985
+acamprosate,CHEBI:51041,alcohol dependence,MONDO:0007079
+cortisol,CHEBI:5783,aspiration pneumonitis,MONDO:0002572
+cefmetazole,CHEBI:3489,bacterial urinary tract infection,MONDO:0005247
+(-)-noradrenaline,CHEBI:18357,bronchiectasis,MONDO:0004822
+cortisol,CHEBI:5783,thyroiditis,MONDO:0004126
+azithromycin,CHEBI:2955,hordeolum,MONDO:0005800
+nintedanib,UNII:G6HRD2P839,interstitial lung disease,MONDO:0015925
+carbinoxamine,CHEBI:3398,atopic conjunctivitis,MONDO:0005642
+tiquizium,CHEBI:145714,Abdominal pain,HP:0002027
+phenylephrine,CHEBI:8093,Red eye,HP:0025337
+rabeprazole,CHEBI:8768,multiple endocrine neoplasia,DOID:3125
+olaparib,CHEBI:83766,peritoneum cancer,MONDO:0002087
+ofloxacin,CHEBI:194135,Acute bacterial sinusitis,UMLS:C0275556
+omacetaxine mepesuccinate,CHEBI:71019,"chronic myelogenous leukemia, BCR-ABL1 positive",MONDO:0011996
+diiodohydroxyquinoline,CHEBI:5950,amebiasis,MONDO:0005644
+fluphenazine,CHEBI:5123,psychotic disorder,MONDO:0005485
+riboflavin,CHEBI:17015,Mineral deficiency,UMLS:C0687148
+propranolol,CHEBI:8499,hypertensive disorder,MONDO:0005044
+loratadine,CHEBI:6538,atopic conjunctivitis,MONDO:0005642
+oxytetracycline,CHEBI:133011,rickettsialpox,MONDO:0019360
+meloxicam,CHEBI:6741,osteoarthritis,MONDO:0005178
+cefuroxime,CHEBI:3515,bacterial meningitis,MONDO:0006670
+dapsone,CHEBI:4325,leprosy,MONDO:0005124
+piperacillin,CHEBI:8232,Pneumonia caused by Escherichia coli,UMLS:C0276089
+azithromycin,CHEBI:2955,Infective otitis media,UMLS:C0729586
+lidocaine,CHEBI:6456,scabies,MONDO:0004525
+ampicillin,CHEBI:28971,Septicemia due to enterococcus,UMLS:C0588233
+calcitonin (salmon),CHEBI:3306,postmenopausal osteoporosis,MONDO:0008159
+temozolomide,CHEBI:72564,anaplastic astrocytoma,MONDO:0016684
+tetracycline,CHEBI:27902,yaws,MONDO:0006019
+aztreonam,CHEBI:94511,rhinoscleroma,MONDO:0005945
+dexbrompheniramine,CHEBI:59269,familial dermatographia,MONDO:0007448
+codeine,CHEBI:16714,Nasal congestion,HP:0001742
+azathioprine,CHEBI:2948,autoimmune hepatitis,MONDO:0016264
+magnesium citrate,PUBCHEM.COMPOUND:6099959,osteoporosis,MONDO:0005298
+ziprasidone,CHEBI:10119,schizophrenia,MONDO:0005090
+cloxacillin,CHEBI:49566,Recurrent lower respiratory tract infections,HP:0002783
+triamcinolone,CHEBI:9667,Diamond-Blackfan anemia,MONDO:0015253
+ciprofloxacin,CHEBI:100241,cystitis,MONDO:0006032
+demeclocycline,UNII:5R5W9ICI6O,acute gonococcal cervicitis,MONDO:0001080
+mechlorethamine,CHEBI:28925,mycosis fungoides,MONDO:0009691
+cefdinir,CHEBI:3485,streptococcal pneumonia,MONDO:0005972
+oxytetracycline,CHEBI:133011,Bacterial keratitis,UMLS:C0854211
+moxifloxacin,CHEBI:63611,Abdominal Infection,UMLS:C1112209
+amikacin,CHEBI:2637,Serratia sepsis,UMLS:C0152973
+butorphanol,CHEBI:3242,Pain,HP:0012531
+salicylic acid,CHEBI:16914,pityriasis simplex,MONDO:0024343
+felbamate,CHEBI:4995,Focal aware seizure,HP:0002349
+cefapirin,CHEBI:554446,Osteomyelitis caused by Staphylococcus aureus,UMLS:C1997728
+medroxyprogesterone,CHEBI:6715,endometrial carcinoma,MONDO:0002447
+demeclocycline,UNII:5R5W9ICI6O,pharyngitis,MONDO:0002258
+gemfibrozil,CHEBI:5296,hypertriglyceridemia,MONDO:0005347
+rolapitant,CHEBI:90908,Chemotherapy-induced nausea and vomiting,UMLS:C0401160
+glibenclamide,CHEBI:5441,type 2 diabetes mellitus,MONDO:0005148
+fluticasone,CHEBI:5134,Pruritus of genital organs,UMLS:C0033777
+prednisolone,CHEBI:8378,adrenocortical insufficiency,MONDO:0000004
+brompheniramine,CHEBI:3183,Flu-Like Symptoms,NCIT:C78302
+cortisol,CHEBI:5783,mycosis fungoides,MONDO:0009691
+salicylic acid,CHEBI:16914,"epidermolytic palmoplantar keratoderma, 1",MONDO:0007758
+prednisolone,CHEBI:8378,adrenogenital syndrome,MONDO:0015898
+methylprednisolone,CHEBI:6888,Laryngeal edema,HP:0012027
+amphotericin B,CHEBI:2682,relapsing fever,MONDO:0019633
+ibuprofen,CHEBI:5855,Severe pain,UMLS:C0278140
+megestrol,CHEBI:6722,Hormone receptor positive malignant neoplasm of breast,UMLS:C1562029
+ibrutinib,CHEBI:76612,marginal zone lymphoma,MONDO:0017604
+magnesium carbonate,PUBCHEM.COMPOUND:11029,constipation disorder,MONDO:0002203
+alclometasone dipropionate,CHEBI:31184,"dermatitis, atopic",MONDO:0011292
+rivaroxaban,CHEBI:68579,acute coronary syndrome,MONDO:0005542
+levofloxacin,CHEBI:63598,Group A Streptococcal Infections,UMLS:C0554628
+tetracycline,CHEBI:27902,bacterial conjunctivitis,MONDO:0006668
+carteolol,CHEBI:3437,open-angle glaucoma,MONDO:0005338
+tazobactam,CHEBI:9421,"Pneumonia, Ventilator-Associated",UMLS:C1701940
+pergolide,CHEBI:63617,parkinsonian disorder,MONDO:0021095
+clopidogrel,CHEBI:37941,intermediate coronary syndrome,MONDO:0006805
+lidocaine,CHEBI:6456,postherpetic neuralgia,MONDO:0041052
+piperacillin,CHEBI:8232,Haemophilus influenzae pneumonia,UMLS:C0276026
+ceftaroline fosamil,CHEBI:70718,Bacterial infection caused by Klebsiella pneumoniae,UMLS:C0343402
+oritavancin,CHEBI:82699,cellulitis,MONDO:0005230
+benzalkonium,CHEBI:135611,Pruritus,HP:0000989
+amphotericin B,CHEBI:2682,Infective otitis media,UMLS:C0729586
+triamcinolone,CHEBI:9667,granuloma annulare,MONDO:0006554
+minocycline,CHEBI:50694,ornithosis,MONDO:0005888
+mepyramine,CHEBI:6762,vasomotor rhinitis,MONDO:0006004
+norfloxacin,CHEBI:100246,chancroid,MONDO:0001797
+amikacin,CHEBI:2637,Proteus pneumonia,UMLS:C1260917
+docetaxel,CHEBI:4672,non-small cell lung carcinoma,MONDO:0005233
+cefuroxime,CHEBI:3515,Streptococcal bacteremia,UMLS:C0152964
+ticarcillin,CHEBI:9587,escherichia coli infection,MONDO:0020920
+methyltestosterone,CHEBI:27436,Hormone receptor positive malignant neoplasm of breast,UMLS:C1562029
+cladribine,CHEBI:567361,hairy cell leukemia,MONDO:0018935
+dantrolene,CHEBI:4317,Spasticity,HP:0001257
+hydroxychloroquine,CHEBI:5801,systemic lupus erythematosus,MONDO:0007915
+desonide,CHEBI:204734,Psoriasis of scalp,UMLS:C0406326
+magnesium carbonate,PUBCHEM.COMPOUND:11029,peptic ulcer disease,MONDO:0004247
+clemastine,CHEBI:3738,urticaria,MONDO:0005492
+bunolol,CHEBI:6438,open-angle glaucoma,MONDO:0005338
+meclofenamic acid,CHEBI:6710,osteoarthritis,MONDO:0005178
+nicotinyl alcohol,CHEBI:45213,pellagra,MONDO:0019975
+morphine,CHEBI:17303,diarrheal disease,MONDO:0001673
+primidone,CHEBI:8412,epilepsy with generalized tonic-clonic seizures,MONDO:0005754
+perazine,CHEBI:59118,anxiety,MONDO:0011918
+loteprednol etabonate,CHEBI:31784,Ocular Rosacea,UMLS:C0406486
+cefadroxil,CHEBI:3479,bacterial urinary tract infection,MONDO:0005247
+clobetasol propionate,CHEBI:31414,Nummular eczema,HP:0033120
+selegiline,CHEBI:9086,Parkinson disease,MONDO:0005180
+cortisol,CHEBI:5783,multiple sclerosis,MONDO:0005301
+pilocarpine,CHEBI:8207,Xerostomia,HP:0000217
+telaprevir,CHEBI:68595,chronic hepatitis C virus infection,MONDO:0005354
+aceprometazine,CHEBI:53770,insomnia,MONDO:0013600
+sulfamethoxazole,CHEBI:9332,nocardiosis,MONDO:0017776
+dextromethorphan,CHEBI:4470,allergic rhinitis,MONDO:0011786
+sodium aurothiomalate,PUBCHEM.COMPOUND:22318,juvenile idiopathic arthritis,MONDO:0011429
+nicotinyl alcohol,CHEBI:45213,Meniere disease,MONDO:0007972
+pravastatin,CHEBI:63618,hyperlipoproteinemia type 3,MONDO:0018473
+lansoprazole,CHEBI:6375,gastric ulcer,MONDO:0001126
+alclometasone dipropionate,CHEBI:31184,Chronic small plaque psoriasis,UMLS:C0406317
+acrivastine,CHEBI:83168,Nasal congestion,HP:0001742
+levomethadyl acetate,CHEBI:6441,opiate dependence,MONDO:0005530
+prednisone,CHEBI:8382,skin disorder,MONDO:0005093
+topiramate,CHEBI:63631,Lennox-Gastaut syndrome,MONDO:0016532
+formestane,CHEBI:75172,female breast carcinoma,MONDO:0004379
+prednisolone,CHEBI:8378,Stevens-Johnson syndrome,MONDO:0018229
+alclofenac,CHEBI:31183,ankylosing spondylitis,MONDO:0005306
+tetryzoline,CHEBI:28674,Nasal congestion,HP:0001742
+sufentanil,CHEBI:9316,Post-Operative Pain,NCIT:C34887
+rofecoxib,CHEBI:8887,Pain,HP:0012531
+dorzolamide,CHEBI:4702,open-angle glaucoma,MONDO:0005338
+salicylic acid,CHEBI:16914,Pain,HP:0012531
+amlodipine,CHEBI:2668,stroke disorder,MONDO:0005098
+vancomycin,CHEBI:28001,Clostridium difficile colitis,MONDO:0000705
+cefuroxime,CHEBI:3515,Bacterial sepsis,UMLS:C0684256
+loteprednol etabonate,CHEBI:31784,iridocyclitis,MONDO:0004773
+remdesivir,CHEBI:145994,COVID-19,MONDO:0100096
+triamcinolone,CHEBI:9667,allergic rhinitis,MONDO:0011786
+carvedilol,CHEBI:3441,congestive heart failure,MONDO:0005009
+beraprost,CHEBI:135633,pulmonary arterial hypertension,MONDO:0015924
+piperacillin,CHEBI:8232,Female genital tract infection,UMLS:C1263758
+indomethacin,CHEBI:49662,tenosynovitis,MONDO:0004855
+metronidazole,CHEBI:6909,bacterial vaginosis,MONDO:0005316
+ciprofloxacin,CHEBI:100241,Enterobacteriaceae Infections,UMLS:C0014347
+desonide,CHEBI:204734,primary cutaneous T-cell non-Hodgkin lymphoma,MONDO:0000607
+dextromethorphan,CHEBI:4470,common cold,MONDO:0005709
+camostat,CHEBI:135632,Gastro-esophageal reflux disease with esophagitis,UMLS:C0677659
+rofecoxib,CHEBI:8887,juvenile idiopathic arthritis,MONDO:0011429
+tazarotene,CHEBI:32184,psoriasis,MONDO:0005083
+rabeprazole,CHEBI:8768,Zollinger-Ellison syndrome,MONDO:0019610
+amikacin,CHEBI:2637,Bacterial urinary infection,UMLS:C0729524
+primidone,CHEBI:8412,Lennox-Gastaut syndrome,MONDO:0016532
+amcinonide,CHEBI:31199,Lichen Simplex Chronicus,UMLS:C0149922
+pioglitazone,CHEBI:8228,type 2 diabetes mellitus,MONDO:0005148
+tazobactam,CHEBI:9421,appendicitis,MONDO:0005649
+nicotine,CHEBI:17688,nicotine dependence,MONDO:0008575
+posaconazole,CHEBI:64355,aspergillosis,MONDO:0005657
+acrivastine,CHEBI:83168,vasomotor rhinitis,MONDO:0006004
+fluticasone,CHEBI:5134,asthma,MONDO:0004979
+aclidinium,CHEBI:65346,chronic obstructive pulmonary disease,MONDO:0005002
+amphotericin B,CHEBI:2682,yaws,MONDO:0006019
+methylprednisolone,CHEBI:6888,aspiration pneumonitis,MONDO:0002572
+sulfisoxazole,CHEBI:102484,nocardiosis,MONDO:0017776
+cefapirin,CHEBI:554446,staphylococcus aureus infection,MONDO:0005545
+ibuprofen,CHEBI:5855,rheumatoid arthritis,MONDO:0008383
+doxifluridine,CHEBI:31521,Primary malignant neoplasm of gastrointestinal tract,UMLS:C1306632
+flecainide,CHEBI:75984,atrial fibrillation,MONDO:0004981
+doxylamine,CHEBI:51380,Flu-Like Symptoms,NCIT:C78302
+cefotetan,PUBCHEM.COMPOUND:53024,Group A Streptococcal Infections,UMLS:C0554628
+ceftriaxone,CHEBI:29007,Enterobacteriaceae Infections,UMLS:C0014347
+nitroglycerin,CHEBI:28787,Left ventricular cardiac dysfunction,UMLS:C1997351
+imipramine,CHEBI:47499,depressive disorder,MONDO:0002050
+sulfanilamide,CHEBI:45373,vulvovaginal candidiasis,MONDO:0006014
+sulindac,CHEBI:9352,tendinitis,MONDO:0004857
+ephedrine,CHEBI:15407,allergic rhinitis,MONDO:0011786
+saroglitazar,CHEBI:134708,Dyslipidemia due to type 2 diabetes mellitus,UMLS:C3661933
+guaiacol,CHEBI:28591,Cough,HP:0012735
+bleomycin,CHEBI:3139,non-Hodgkin lymphoma,MONDO:0018908
+daunorubicin,CHEBI:41977,Kaposi's sarcoma,MONDO:0005055
+azapropazone,CHEBI:38010,osteoarthritis,MONDO:0005178
+melatonin,CHEBI:16796,insomnia,MONDO:0013600
+theophylline,CHEBI:28177,lung disorder,MONDO:0005275
+streptozocin,CHEBI:9288,Neuroendocrine tumor of pancreas,UMLS:C4305467
+cetirizine,CHEBI:3561,Rhinorrhea,HP:0031417
+methylprednisolone,CHEBI:6888,Exacerbation of asthma,UMLS:C0349790
+buprenorphine,CHEBI:3216,Chronic pain,HP:0012532
+remifentanil,CHEBI:8802,"Postoperative Pain, Acute",UMLS:C2215257
+phenmetrazine,CHEBI:8067,obesity disorder,MONDO:0011122
+carfilzomib,CHEBI:65347,Relapse multiple myeloma,UMLS:C2349261
+cefotetan,PUBCHEM.COMPOUND:53024,endometritis,MONDO:0000918
+allopurinol,CHEBI:40279,Uric acid renal calculus,UMLS:C0558595
+duloxetine,CHEBI:36795,fibromyalgia,MONDO:0005546
+probenecid,CHEBI:8426,Chronic gouty arthritis,UMLS:C0268108
+esomeprazole,CHEBI:50275,peptic ulcer disease,MONDO:0004247
+carbinoxamine,CHEBI:3398,vasomotor rhinitis,MONDO:0006004
+prednisolone,CHEBI:8378,erythema multiforme,MONDO:0006545
+tigecycline,UNII:70JE2N95KR,streptococcal pneumonia,MONDO:0005972
+chloramphenicol,CHEBI:3605,otitis externa,MONDO:0004795
+phenytoin,CHEBI:8107,focal epilepsy,MONDO:0005384
+(-)-menthol,CHEBI:15409,Back pain,HP:0003418
+cortisol,CHEBI:5783,proctitis,MONDO:0005538
+dextromethorphan,CHEBI:4470,vasomotor rhinitis,MONDO:0006004
+loracarbef,CHEBI:47544,Group A Streptococcal Infections,UMLS:C0554628
+metoprolol,CHEBI:6904,acute coronary syndrome,MONDO:0005542
+ciprofloxacin,CHEBI:100241,typhoid fever,MONDO:0005619
+oxybutynin,CHEBI:144551,Neurogenic bladder,HP:0000011
+amantadine,CHEBI:2618,Parkinson disease,MONDO:0005180
+prednisolone,CHEBI:8378,seborrheic dermatitis,MONDO:0006608
+minocycline,CHEBI:50694,Fusospirochetal pharyngitis,UMLS:C1318559
+methdilazine,CHEBI:6823,familial dermatographia,MONDO:0007448
+topotecan,CHEBI:63632,cervical cancer,MONDO:0002974
+nedocromil,CHEBI:7492,atopic conjunctivitis,MONDO:0005642
+bempedoic acid,CHEBI:149601,Familial hypercholesterolemia - heterozygous,UMLS:C0342882
+cefoxitin,CHEBI:209807,Urinary tract infection caused by Escherichia coli,UMLS:C0577708
+dextromethorphan,CHEBI:4470,headache disorder,MONDO:0021146
+bexarotene,CHEBI:50859,primary cutaneous T-cell non-Hodgkin lymphoma,MONDO:0000607
+ferric citrate,PUBCHEM.COMPOUND:61300,iron deficiency anemia,MONDO:0001356
+clarithromycin,CHEBI:3732,Haemophilus influenzae otitis media,UMLS:C0276027
+duloxetine,CHEBI:36795,female stress incontinence,MONDO:0004160
+lisuride,CHEBI:51164,migraine disorder,MONDO:0005277
+sulfamethizole,CHEBI:9331,Acute otitis media,HP:0000371
+demeclocycline,UNII:5R5W9ICI6O,anthrax infection,MONDO:0005119
+prednisolone,CHEBI:8378,bacterial conjunctivitis,MONDO:0006668
+ticarcillin,CHEBI:9587,Haemophilus influenzae pneumonia,UMLS:C0276026
+antazoline,CHEBI:84115,Red eye,HP:0025337
+doxycycline,PUBCHEM.COMPOUND:54671203,rickettsialpox,MONDO:0019360
+imipenem,CHEBI:471744,escherichia coli infection,MONDO:0020920
+ganciclovir,CHEBI:465284,Paroxysmal supraventricular tachycardia,HP:0004763
+rosuvastatin,CHEBI:38545,hyperlipoproteinemia type 3,MONDO:0018473
+loteprednol etabonate,CHEBI:31784,rosacea,MONDO:0006604
+ampicillin,CHEBI:28971,Streptococcal tonsillitis,UMLS:C0275804
+progesterone,CHEBI:17026,endometriosis,MONDO:0005133
+avanafil,CHEBI:66876,erectile dysfunction,MONDO:0005362
+bleomycin,CHEBI:3139,penile cancer,MONDO:0001325
+methimazole,CHEBI:50673,hyperthyroidism,MONDO:0004425
+norfloxacin,CHEBI:100246,Female pelvic cellulitis,UMLS:C0349734
+amcinonide,CHEBI:31199,Pruritus Ani,UMLS:C0033775
+norfloxacin,CHEBI:100246,Infective cystitis,UMLS:C0600041
+orciprenaline,CHEBI:6792,asthma,MONDO:0004979
+sulfogaiacol,CHEBI:85537,rhinitis,MONDO:0003014
+triamcinolone,CHEBI:9667,skin disorder,MONDO:0005093
+cefalotin,CHEBI:124991,arthropathy,MONDO:0006816
+moclobemide,CHEBI:83531,depressive disorder,MONDO:0002050
+norfloxacin,CHEBI:100246,Acute bacterial sinusitis,UMLS:C0275556
+pramocaine,CHEBI:8357,hemorrhoid,MONDO:0004872
+alclometasone dipropionate,CHEBI:31184,discoid lupus erythematosus,MONDO:0019558
+pomalidomide,CHEBI:72690,plasma cell myeloma,MONDO:0009693
+amantadine,CHEBI:2618,Influenza caused by Influenza A virus,UMLS:C2711180
+ceftriaxone,CHEBI:29007,Acute gonococcal urethritis,UMLS:C0275652
+ciprofloxacin,CHEBI:100241,Infective cystitis,UMLS:C0600041
+cefazolin,CHEBI:474053,staphylococcal pneumonia,MONDO:0005970
+trovafloxacin,CHEBI:9763,Postoperative infection,UMLS:C0392618
+levofloxacin,CHEBI:63598,staphylococcus aureus infection,MONDO:0005545
+desoximetasone,CHEBI:691037,Pruritus of genital organs,UMLS:C0033777
+cefmetazole,CHEBI:3489,streptococcal pneumonia,MONDO:0005972
+chlorpheniramine,CHEBI:52010,allergic rhinitis,MONDO:0011786
+desloratadine,CHEBI:291342,allergic rhinitis,MONDO:0011786
+norfloxacin,CHEBI:100246,Bacterial urinary infection,UMLS:C0729524
+colchicine,CHEBI:27882,Chronic gouty arthritis,UMLS:C0268108
+metronidazole,CHEBI:6909,Abdominal Abscess,UMLS:C0243001
+amoxicillin,CHEBI:2676,pharyngitis,MONDO:0002258
+calcifediol,CHEBI:17933,Hypocalcemia,HP:0002901
+moxifloxacin,CHEBI:63611,peritonitis,MONDO:0004522
+mercaptopurine,PUBCHEM.COMPOUND:667490,acute promyelocytic leukemia,MONDO:0012883
+brompheniramine,CHEBI:3183,Rhinorrhea,HP:0031417
+cladribine,CHEBI:567361,relapsing-remitting multiple sclerosis,MONDO:0005314
+orciprenaline,CHEBI:6792,pulmonary emphysema,MONDO:0004849
+levofloxacin,CHEBI:63598,Mycoplasma pneumoniae pneumonia,MONDO:0005867
+risperidone,CHEBI:8871,bipolar disorder,MONDO:0004985
+norfloxacin,CHEBI:100246,bronchitis,MONDO:0003781
+cefpodoxime,CHEBI:3504,Haemophilus influenzae otitis media,UMLS:C0276027
+proglumetacin,CHEBI:76263,arthritic joint disease,MONDO:0005578
+nafcillin,CHEBI:7447,Staphylococcal meningitis,UMLS:C0154640
+azlocillin,CHEBI:2956,Pneumonia caused by Escherichia coli,UMLS:C0276089
+fluocinolone acetonide,CHEBI:5108,choroiditis,MONDO:0001280
+amikacin,CHEBI:2637,arthropathy,MONDO:0006816
+alclometasone dipropionate,CHEBI:31184,seborrheic dermatitis,MONDO:0006608
+ceftriaxone,CHEBI:29007,gonorrhea,MONDO:0004277
+bupropion,CHEBI:3219,obesity disorder,MONDO:0011122
+diazoxide,CHEBI:4495,pancreatic insulinoma,MONDO:0024677
+clarithromycin,CHEBI:3732,Acute otitis media,HP:0000371
+ofloxacin,CHEBI:194135,staphylococcal pneumonia,MONDO:0005970
+furagin,CHEBI:131714,bacterial urinary tract infection,MONDO:0005247
+chlorpheniramine,CHEBI:52010,Sneeze,HP:0025095
+verapamil,CHEBI:77733,atrial fibrillation,MONDO:0004981
+elacestrant,CHEBI:229213,breast cancer,MONDO:0007254
+ceftriaxone,CHEBI:29007,streptococcal pneumonia,MONDO:0005972
+triamcinolone,CHEBI:9667,congenital adrenal hyperplasia,MONDO:0018479
+eflornithine,CHEBI:41948,human African trypanosomiasis,MONDO:0005459
+garenoxacin,CHEBI:131716,Infective otitis media,UMLS:C0729586
+cefamandole,CHEBI:3480,Klebsiella cystitis,UMLS:C0520775
+gatifloxacin,CHEBI:5280,Urinary tract infection caused by Escherichia coli,UMLS:C0577708
+betamethasone,CHEBI:3077,Pruritus of genital organs,UMLS:C0033777
+tetracycline,CHEBI:27902,pneumonia,MONDO:0005249
+azatadine,CHEBI:2946,Sneeze,HP:0025095
+cyclophosphamide,CHEBI:4027,retinoblastoma,MONDO:0008380
+apraclonidine,CHEBI:2788,open-angle glaucoma,MONDO:0005338
+cefazolin,CHEBI:474053,bacterial pneumonia,MONDO:0004652
+azacitidine,CHEBI:2038,acute myeloid leukemia,MONDO:0018874
+vasopressin,CHEBI:34543,hemophilia A,MONDO:0010602
+trovafloxacin,CHEBI:9763,Acute Moraxella catarrhalis bronchitis,UMLS:C0339932
+tropisetron,UNII:6I819NIK1W,Chemotherapy-induced nausea and vomiting,UMLS:C0401160
+felodipine,CHEBI:585948,hypertensive disorder,MONDO:0005044
+methylprednisolone,CHEBI:6888,juvenile idiopathic arthritis,MONDO:0011429
+clemastine,CHEBI:3738,atopic conjunctivitis,MONDO:0005642
+ceftriaxone,CHEBI:29007,Gonococcal endocarditis,UMLS:C0153227
+ofloxacin,CHEBI:194135,Urinary tract infection caused by Escherichia coli,UMLS:C0577708
+ofloxacin,CHEBI:194135,Infective otitis media,UMLS:C0729586
+levofloxacin,CHEBI:63598,bacterial pneumonia,MONDO:0004652
+norfloxacin,CHEBI:100246,Acute exacerbation of chronic bronchitis,UMLS:C0856695
+ofloxacin,CHEBI:194135,Klebsiella cystitis,UMLS:C0520775
+flumethasone pivalate,CHEBI:31620,contact dermatitis,MONDO:0005480
+(-)-adrenaline,CHEBI:28918,Exacerbation of asthma,UMLS:C0349790
+naproxen,CHEBI:7476,tendinitis,MONDO:0004857
+amphotericin B,CHEBI:2682,Pulmonary cryptococcosis,UMLS:C0276688
+captopril,CHEBI:3380,diabetic kidney disease,MONDO:0005016
+edoxaban,CHEBI:85973,Embolism,UMLS:C0013922
+trovafloxacin,CHEBI:9763,Gonorrhea of rectum,UMLS:C0275665
+streptomycin,CHEBI:17076,tularemia,MONDO:0018077
+cefuroxime,CHEBI:3515,osteomyelitis,MONDO:0005246
+fenfluramine,CHEBI:5000,obesity disorder,MONDO:0011122
+clavulanic acid,CHEBI:48947,Bacterial otitis media,UMLS:C1698510
+betamethasone,CHEBI:3077,aspiration pneumonitis,MONDO:0002572
+romidepsin,CHEBI:61080,mature T-cell and NK-cell non-Hodgkin lymphoma,MONDO:0000430
+zinc acetate,PUBCHEM.COMPOUND:11192,Traumatic Wound,UMLS:C0043250
+tizanidine,CHEBI:63629,Spasticity,HP:0001257
+bexagliflozin,CHEBI:229225,type 2 diabetes mellitus,MONDO:0005148
+triamcinolone,CHEBI:9667,follicular lymphoma,MONDO:0018906
+sertraline,CHEBI:9123,panic disorder,MONDO:0005383
+pyrantel,CHEBI:8654,Mixed intestinal infection caused by Cestoda and/or Trematoda and/or Phylum Nemata,UMLS:C0153303
+esomeprazole,CHEBI:50275,peptic esophagitis,MONDO:0006896
+cortisol,CHEBI:5783,contact dermatitis,MONDO:0005480
+azapropazone,CHEBI:38010,rheumatoid arthritis,MONDO:0008383
+prednisolone,CHEBI:8378,allergic bronchopulmonary aspergillosis,MONDO:0015243
+sorafenib,CHEBI:50924,hepatocellular carcinoma,MONDO:0007256
+zinc acetate,PUBCHEM.COMPOUND:11192,otitis externa,MONDO:0004795
+oxacillin,CHEBI:7809,Recurrent lower respiratory tract infections,HP:0002783
+doxycycline,PUBCHEM.COMPOUND:54671203,brucellosis,MONDO:0005683
+clavulanic acid,CHEBI:48947,staphylococcus aureus infection,MONDO:0005545
+fluocinolone acetonide,CHEBI:5108,Pruritus of genital organs,UMLS:C0033777
+cefepime,CHEBI:478164,Bacterial urinary infection,UMLS:C0729524
+hexamidine,CHEBI:87184,Acanthamoeba keratitis,MONDO:0005629
+prazosin,CHEBI:8364,hypertensive disorder,MONDO:0005044
+ciprofloxacin,CHEBI:100241,Proteus urinary tract infection,UMLS:C0577709
+demeclocycline,UNII:5R5W9ICI6O,Rocky mountain spotted fever,MONDO:0019359
+methapyrilene,CHEBI:6820,vasomotor rhinitis,MONDO:0006004
+valacyclovir,CHEBI:35854,herpes zoster,MONDO:0005609
+regorafenib,CHEBI:68647,metastasis from malignant tumor of colon,MONDO:0041448
+minocycline,CHEBI:50694,cholera,MONDO:0015766
+paramethadione,CHEBI:7921,epilepsy,MONDO:0005027
+cefadroxil,CHEBI:3479,Group A Streptococcal Infections,UMLS:C0554628
+dronedarone,CHEBI:50659,Paroxysmal atrial fibrillation,HP:0004757
+ipriflavone,CHEBI:31719,postmenopausal osteoporosis,MONDO:0008159
+diphenylpyraline,CHEBI:59788,allergic rhinitis,MONDO:0011786
+cyclizine,CHEBI:3994,Rhinorrhea,HP:0031417
+acemetacin,CHEBI:31162,ankylosing spondylitis,MONDO:0005306
+sulfacetamide,CHEBI:63845,seborrheic dermatitis,MONDO:0006608
+pravastatin,CHEBI:63618,Hypercholesterolemia,HP:0003124
+chloroquine,CHEBI:3638,discoid lupus erythematosus,MONDO:0019558
+hydrocodone,CHEBI:5779,Rhinorrhea,HP:0031417
+olanzapine,CHEBI:7735,major depressive disorder,MONDO:0002009
+desloratadine,CHEBI:291342,atopic conjunctivitis,MONDO:0005642
+perazine,CHEBI:59118,Nausea and vomiting,HP:0002017
+vancomycin,CHEBI:28001,Bacterial sepsis,UMLS:C0684256
+azithromycin,CHEBI:2955,Mycoplasma pneumoniae pneumonia,MONDO:0005867
+carbenicillin,CHEBI:3393,Proteus urinary tract infection,UMLS:C0577709
+amoxapine,CHEBI:2675,depressive disorder,MONDO:0002050
+famotidine,CHEBI:4975,Erosive esophagitis,UMLS:C0267055
+glimepiride,CHEBI:5383,type 2 diabetes mellitus,MONDO:0005148
+apremilast,CHEBI:78540,Chronic small plaque psoriasis,UMLS:C0406317
+cefadroxil,CHEBI:3479,tonsillitis,MONDO:0001039
+cefotaxime,CHEBI:94427,Klebsiella cystitis,UMLS:C0520775
+trimethobenzamide,CHEBI:27796,Nausea and vomiting,HP:0002017
+sunitinib,CHEBI:38940,gastrointestinal stromal tumor,MONDO:0011719
+cefiderocol,CHEBI:140376,gram-negative bacterial infections,MONDO:0021678
+diclofenac,CHEBI:47381,rheumatoid arthritis,MONDO:0008383
+cephradine,CHEBI:3547,Bacterial otitis media,UMLS:C1698510
+tolnaftate,CHEBI:9620,pityriasis versicolor,MONDO:0005915
+zinc acetate,PUBCHEM.COMPOUND:11192,Pruritus,HP:0000989
+zoledronic acid,CHEBI:46557,bone Paget disease,MONDO:0005382
+parecoxib,CHEBI:73038,"Postoperative Pain, Acute",UMLS:C2215257
+cortisol,CHEBI:5783,gout,MONDO:0005393
+pimozide,CHEBI:8212,Tourette syndrome,MONDO:0007661
+cefotaxime,CHEBI:94427,staphylococcal pneumonia,MONDO:0005970
+everolimus,CHEBI:68478,Hormone receptor positive malignant neoplasm of breast,UMLS:C1562029
+cefapirin,CHEBI:554446,Proteus urinary tract infection,UMLS:C0577709
+diphenylpyraline,CHEBI:59788,Nasal congestion,HP:0001742
+promethazine,CHEBI:8461,vasomotor rhinitis,MONDO:0006004
+mezlocillin,CHEBI:6919,aspiration pneumonia,MONDO:0000265
+cefonicid,CHEBI:3491,Recurrent lower respiratory tract infections,HP:0002783
+leniolisib,CHEBI:229649,immunodeficiency 14,MONDO:0014222
+lorlatinib,CHEBI:143117,Anaplastic lymphoma kinase fusion oncogene positive non-small cell lung cancer,UMLS:C5394780
+elbasvir,CHEBI:132967,chronic hepatitis C virus infection,MONDO:0005354
+bendroflumethiazide,CHEBI:3013,hypertensive disorder,MONDO:0005044
+ticarcillin,CHEBI:9587,Enterobacteriaceae Infections,UMLS:C0014347
+ceftizoxime,CHEBI:553473,Sepsis caused by Bacteroides,UMLS:C0276064
+delgocitinib,CHEBI:167600,"dermatitis, atopic",MONDO:0011292
+ampicillin,CHEBI:28971,Escherichia coli septicemia,UMLS:C0276088
+tetracycline,CHEBI:27902,acne,MONDO:0011438
+mepyramine,CHEBI:6762,Nasal congestion,HP:0001742
+cephradine,CHEBI:3547,Group A Streptococcal Infections,UMLS:C0554628
+cephradine,CHEBI:3547,Acute otitis media,HP:0000371
+prednisone,CHEBI:8382,psoriatic arthritis,MONDO:0011849
+orciprenaline,CHEBI:6792,bronchitis,MONDO:0003781
+ofloxacin,CHEBI:194135,Abdominal Infection,UMLS:C1112209
+phenylephrine,CHEBI:8093,Rhinorrhea,HP:0031417
+cyclopentolate,CHEBI:4024,cycloplegia,MONDO:0005555
+theophylline,CHEBI:28177,bronchial disorder,MONDO:0001358
+sertraline,CHEBI:9123,post-traumatic stress disorder,MONDO:0005146
+"1,25-dihydroxyvitamin D3",CHEBI:17823,renal osteodystrophy,MONDO:0006946
+triamcinolone,CHEBI:9667,multiple sclerosis,MONDO:0005301
+nizatidine,CHEBI:7601,duodenal ulcer,MONDO:0005412
+betamethasone,CHEBI:3077,multiple sclerosis,MONDO:0005301
+ephedrine,CHEBI:15407,seasonal allergic rhinitis,MONDO:0005324
+medroxyprogesterone,CHEBI:6715,Hot flashes,HP:0031217
+naproxen,CHEBI:7476,Pain,HP:0012531
+meclofenamic acid,CHEBI:6710,rheumatoid arthritis,MONDO:0008383
+imipenem,CHEBI:471744,Female genital tract infection,UMLS:C1263758
+triamcinolone,CHEBI:9667,Chronic small plaque psoriasis,UMLS:C0406317
+cefoxitin,CHEBI:209807,staphylococcus aureus infection,MONDO:0005545
+triamcinolone,CHEBI:9667,uveitis,MONDO:0020283
+aripiprazole lauroxil,CHEBI:90930,schizophrenia,MONDO:0005090
+fluocinolone acetonide,CHEBI:5108,Melasma,HP:0025272
+cyclophosphamide,CHEBI:4027,B-cell chronic lymphocytic leukemia,MONDO:0004948
+methylprednisolone,CHEBI:6888,nephrotic syndrome,MONDO:0005377
+dantrolene,CHEBI:4317,malignant hyperthermia of anesthesia,MONDO:0018493
+promazine,CHEBI:8459,Rhinorrhea,HP:0031417
+lenalidomide,CHEBI:63791,marginal zone lymphoma,MONDO:0017604
+cefamandole,CHEBI:3480,staphylococcus aureus infection,MONDO:0005545
+promethazine,CHEBI:8461,seasonal allergic rhinitis,MONDO:0005324
+aztreonam,CHEBI:94511,Bacterial infection caused by Klebsiella pneumoniae,UMLS:C0343402
+megestrol,CHEBI:6722,endometrial carcinoma,MONDO:0002447
+tetracycline,CHEBI:27902,lymphogranuloma venereum,MONDO:0005834
+isosorbide mononitrate,CHEBI:6060,ocular hypertension,MONDO:0006875
+ceftizoxime,CHEBI:553473,Haemophilus influenzae pneumonia,UMLS:C0276026
+oxacillin,CHEBI:7809,Sepsis caused by Staphylococcus aureus,UMLS:C2887088
+prednisolone,CHEBI:8378,Cyclitis,UMLS:C0010543
+terazosin,CHEBI:9445,benign prostatic hyperplasia,MONDO:0010811
+doxycycline,PUBCHEM.COMPOUND:54671203,gastrointestinal anthrax,MONDO:0001701
+ephedrine,CHEBI:15407,atopic conjunctivitis,MONDO:0005642
+flumethasone pivalate,CHEBI:31620,exanthem,MONDO:0006547
+tetracycline,CHEBI:27902,bacterial urinary tract infection,MONDO:0005247
+betamethasone,CHEBI:3077,seborrheic dermatitis,MONDO:0006608
+prednisolone,CHEBI:8378,Diamond-Blackfan anemia,MONDO:0015253
+salicylic acid,CHEBI:16914,synovitis,MONDO:0002400
+icosapent,CHEBI:84883,hypertriglyceridemia,MONDO:0005347
+trimethoprim,CHEBI:45924,shigellosis,MONDO:0019345
+D-cycloserine,CHEBI:40009,Urinary tract infection caused by Escherichia coli,UMLS:C0577708
+azapropazone,CHEBI:38010,ankylosing spondylitis,MONDO:0005306
+sitagliptin,CHEBI:40237,type 2 diabetes mellitus,MONDO:0005148
+betamethasone,CHEBI:3077,tinea corporis,MONDO:0001461
+fluticasone,CHEBI:5134,intrinsic asthma,MONDO:0004765
+caffeine,CHEBI:27732,headache disorder,MONDO:0021146
+ticarcillin,CHEBI:9587,Proteus septicemia,UMLS:C0577690
+topotecan,CHEBI:63632,ovarian cancer,MONDO:0008170
+dicumarol,CHEBI:4513,myocardial infarction,MONDO:0005068
+magnesium carbonate,PUBCHEM.COMPOUND:11029,Hypomagnesemia,HP:0002917
+alprazolam,CHEBI:2611,mixed anxiety and depressive disorder,MONDO:0041086
+hydroxocobalamin,PUBCHEM.COMPOUND:184933,cyanide poisoning,MONDO:0018754
+aminoglutethimide,CHEBI:2654,Secondary malignant neoplasm of female breast,UMLS:C0346993
+clocortolone pivalate,CHEBI:59582,Chronic small plaque psoriasis,UMLS:C0406317
+levofloxacin,CHEBI:63598,anthrax infection,MONDO:0005119
+triazolam,CHEBI:9674,insomnia,MONDO:0013600
+amlodipine,CHEBI:2668,Angina pectoris,HP:0001681
+brompheniramine,CHEBI:3183,familial dermatographia,MONDO:0007448
+betamethasone,CHEBI:3077,acute lymphoblastic leukemia,MONDO:0004967
+tetracycline,CHEBI:27902,Infective otitis media,UMLS:C0729586
+sulbactam,CHEBI:9321,rhinoscleroma,MONDO:0005945
+pirtobrutinib,CHEBI:229212,mantle cell lymphoma,MONDO:0018876
+telbivudine,CHEBI:63624,chronic hepatitis B virus infection,MONDO:0005366
+ampicillin,CHEBI:28971,acute gonococcal endometritis,MONDO:0004264
+procyclidine,CHEBI:8448,Parkinson disease,MONDO:0005180
+leflunomide,CHEBI:6402,psoriatic arthritis,MONDO:0011849
+sulbactam,CHEBI:9321,cholangitis,MONDO:0004789
+lansoprazole,CHEBI:6375,Zollinger-Ellison syndrome,MONDO:0019610
+oxacillin,CHEBI:7809,pharyngitis,MONDO:0002258
+cetirizine,CHEBI:3561,chronic idiopathic urticaria,MONDO:0044212
+ciprofloxacin,CHEBI:100241,dysentery,MONDO:0001517
+dexibuprofen,CHEBI:43415,Dysmenorrhea,HP:0100607
+amphotericin B,CHEBI:2682,Gonorrhea of rectum,UMLS:C0275665
+tetracycline,CHEBI:27902,sinusitis,MONDO:0005961
+tetracaine,CHEBI:9468,Skin Irritation,NCIT:C50743
+triamcinolone,CHEBI:9667,Lichen Simplex Chronicus,UMLS:C0149922
+caffeine,CHEBI:27732,Vascular Headaches,UMLS:C0042376
+ibuprofen,CHEBI:5855,headache disorder,MONDO:0021146
+ofloxacin,CHEBI:194135,Chlamydial pelvic inflammatory disease,UMLS:C0520777
+cefixime,CHEBI:93248,Acute exacerbation of chronic bronchitis,UMLS:C0856695
+guaiacol,CHEBI:28591,Rhinorrhea,HP:0031417
+carbamazepine,CHEBI:3387,epilepsy with generalized tonic-clonic seizures,MONDO:0005754
+azithromycin,CHEBI:2955,Acute bacterial bronchitis,UMLS:C0339933
+ticarcillin,CHEBI:9587,Sepsis caused by Staphylococcus aureus,UMLS:C2887088
+prasugrel,CHEBI:87715,acute coronary syndrome,MONDO:0005542
+oxazepam,CHEBI:7823,anxiety,MONDO:0011918
+medroxyprogesterone,CHEBI:6715,Metrorrhagia,HP:0100608
+betamethasone,CHEBI:3077,Diamond-Blackfan anemia,MONDO:0015253
+cefuroxime,CHEBI:3515,Staphylococcal bacteremia,UMLS:C0152965
+plerixafor,CHEBI:125354,Solid carcinoma,UMLS:C0334296
+metformin,CHEBI:6801,type 2 diabetes mellitus,MONDO:0005148
+cefixime,CHEBI:93248,tonsillitis,MONDO:0001039
+metoprolol,CHEBI:6904,hypertensive disorder,MONDO:0005044
+brimonidine (UK14304),CHEBI:3175,ocular hypertension,MONDO:0006875
+cefamandole,CHEBI:3480,Abdominal Infection,UMLS:C1112209
+thiabendazole,CHEBI:45979,toxocariasis,MONDO:0005988
+imidapril,CHEBI:135654,hypertensive disorder,MONDO:0005044
+triamcinolone,CHEBI:9667,seborrheic dermatitis,MONDO:0006608
+doxepin,CHEBI:4710,Pruritus,HP:0000989
+magnesium oxide,CHEBI:31794,Hypocalcemia,HP:0002901
+semaxanib,CHEBI:91083,aplastic anemia,MONDO:0015909
+ticarcillin,CHEBI:9587,Pneumonia caused by Pseudomonas,UMLS:C0155860
+naproxen,CHEBI:7476,Dysmenorrhea,HP:0100607
+cefotetan,PUBCHEM.COMPOUND:53024,Proteus urinary tract infection,UMLS:C0577709
+prednisolone,CHEBI:8378,tendinitis,MONDO:0004857
+pralatrexate,CHEBI:71223,mature T-cell and NK-cell non-Hodgkin lymphoma,MONDO:0000430
+cortisol,CHEBI:5783,bursitis,MONDO:0002471
+desonide,CHEBI:204734,discoid lupus erythematosus,MONDO:0019558
+betamethasone,CHEBI:3077,skin disorder,MONDO:0005093
+tinidazole,CHEBI:63627,trichomoniasis,MONDO:0002154
+posaconazole,CHEBI:64355,candidiasis,MONDO:0002026
+aztreonam,CHEBI:94511,Bacterial urinary infection,UMLS:C0729524
+mesalazine,CHEBI:6775,ulcerative colitis,MONDO:0005101
+cefamandole,CHEBI:3480,Proteus urinary tract infection,UMLS:C0577709
+dextromethorphan,CHEBI:4470,Pharyngalgia,HP:0033050
+lovastatin,CHEBI:40303,hypoalphalipoproteinemia,MONDO:0017773
+norfloxacin,CHEBI:100246,Chlamydial pelvic inflammatory disease,UMLS:C0520777
+zoledronic acid,CHEBI:46557,postmenopausal osteoporosis,MONDO:0008159
+pirfenidone,CHEBI:32016,interstitial lung disease 2,MONDO:0800029
+loratadine,CHEBI:6538,Nasal congestion,HP:0001742
+sunitinib,CHEBI:38940,Neuroendocrine tumor of pancreas,UMLS:C4305467
+oxiconazole,CHEBI:7825,tinea corporis,MONDO:0001461
+calcifediol,CHEBI:17933,renal osteodystrophy,MONDO:0006946
+mepyramine,CHEBI:6762,allergic rhinitis,MONDO:0011786
+ceftriaxone,CHEBI:29007,Escherichia coli meningitis,MONDO:0006753
+cortisol,CHEBI:5783,chronic primary adrenal insufficiency,MONDO:0015129
+cefoxitin,CHEBI:209807,acute gonococcal cervicitis,MONDO:0001080
+flavoxate,CHEBI:5088,Suprapubic pain,UMLS:C0241310
+morphine,CHEBI:17303,"Postoperative Pain, Acute",UMLS:C2215257
+tolnaftate,CHEBI:9620,tinea manuum,MONDO:0001699
+chloroquine,CHEBI:3638,Plasmodium ovale malaria,MONDO:0001601
+amprenavir,CHEBI:40050,HIV infectious disease,MONDO:0005109
+panobinostat,CHEBI:85990,primary cutaneous T-cell non-Hodgkin lymphoma,MONDO:0000607
+cefadroxil,CHEBI:3479,Klebsiella cystitis,UMLS:C0520775
+tetryzoline,CHEBI:28674,Red eye,HP:0025337
+minocycline,CHEBI:50694,anthrax infection,MONDO:0005119
+ceftizoxime,CHEBI:553473,Recurrent lower respiratory tract infections,HP:0002783
+cephradine,CHEBI:3547,osteomyelitis,MONDO:0005246
+caspofungin,CHEBI:474180,esophageal candidiasis,MONDO:0001648
+antazoline,CHEBI:84115,Sneeze,HP:0025095
+atazanavir,CHEBI:37924,HIV infectious disease,MONDO:0005109
+iloprost,CHEBI:63916,pulmonary arterial hypertension,MONDO:0015924
+cefamandole,CHEBI:3480,Staphylococcal bacteremia,UMLS:C0152965
+cefuroxime,CHEBI:3515,escherichia coli infection,MONDO:0020920
+cortisol,CHEBI:5783,systemic lupus erythematosus,MONDO:0007915
+rabeprazole,CHEBI:8768,gastroesophageal reflux disease,MONDO:0007186
+betamethasone,CHEBI:3077,systemic lupus erythematosus,MONDO:0007915
+doxycycline,PUBCHEM.COMPOUND:54671203,relapsing fever,MONDO:0019633
+doxycycline,PUBCHEM.COMPOUND:54671203,chancroid,MONDO:0001797
+sofosbuvir,CHEBI:85083,chronic hepatitis C virus infection,MONDO:0005354
+felbinac,CHEBI:31597,Pain,HP:0012531
+docosahexaenoic acid,CHEBI:28125,Breastfeeding (mother),UMLS:C1623040
+propafenone,CHEBI:63619,Paroxysmal supraventricular tachycardia,HP:0004763
+nintedanib,UNII:G6HRD2P839,Interstitial lung fibrosis,UMLS:C3887486
+amphotericin B,CHEBI:2682,Rocky mountain spotted fever,MONDO:0019359
+isoprenaline,CHEBI:64317,common cold,MONDO:0005709
+tolnaftate,CHEBI:9620,Tinea Capitis,UMLS:C0040250
+ciprofloxacin,CHEBI:100241,Haemophilus influenzae pneumonia,UMLS:C0276026
+ciprofloxacin,CHEBI:100241,prostatitis,MONDO:0005280
+diphenhydramine,CHEBI:4636,insomnia,MONDO:0013600
+fluoxymesterone,CHEBI:5120,cryptorchidism,MONDO:0009047
+tolmetin,CHEBI:71941,rheumatoid arthritis,MONDO:0008383
+amikacin,CHEBI:2637,rhinoscleroma,MONDO:0005945
+prednisone,CHEBI:8382,diffuse large B-cell lymphoma,MONDO:0018905
+cefaclor,CHEBI:3478,Acute Moraxella catarrhalis bronchitis,UMLS:C0339932
+sodium aurothiomalate,PUBCHEM.COMPOUND:22318,rheumatoid arthritis,MONDO:0008383
+nizatidine,CHEBI:7601,peptic esophagitis,MONDO:0006896
+drospirenone,CHEBI:50838,atrophic vulva,DOID:14275
+sulbactam,CHEBI:9321,Abdominal Infection,UMLS:C1112209
+theophylline,CHEBI:28177,Asthma-Chronic Obstructive Pulmonary Disease Overlap Syndrome,UMLS:C4038730
+ethinylestradiol,CHEBI:4903,acne,MONDO:0011438
+hydrocodone,CHEBI:5779,Pain,HP:0012531
+desonide,CHEBI:204734,asthma,MONDO:0004979
+minocycline,CHEBI:50694,inclusion conjunctivitis,MONDO:0005808
+streptomycin,CHEBI:17076,pulmonary tuberculosis,MONDO:0006052
+valacyclovir,CHEBI:35854,Recurrent genital herpes,HP:0032157
+fluorometholone,CHEBI:31625,Herpes zoster keratitis,UMLS:C1275687
+prednisone,CHEBI:8382,dermatitis herpetiformis,MONDO:0015614
+propafenone,CHEBI:63619,Paroxysmal atrial fibrillation,HP:0004757
+teriflunomide,CHEBI:68540,relapsing-remitting multiple sclerosis,MONDO:0005314
+quinine,CHEBI:15854,Pseudobulbar affect,UMLS:C2316460
+demeclocycline,UNII:5R5W9ICI6O,yaws,MONDO:0006019
+flurazepam,CHEBI:5128,insomnia,MONDO:0013600
+hydroxyurea,CHEBI:44423,melanoma,MONDO:0005105
+tafenoquine,CHEBI:135752,malaria,MONDO:0005136
+meropenem,CHEBI:43968,Pseudomonas aeruginosa infectious disease,MONDO:0040732
+betamethasone,CHEBI:3077,thyroiditis,MONDO:0004126
+vilazodone,CHEBI:70707,major depressive disorder,MONDO:0002009
+ampicillin,CHEBI:28971,bacterial pneumonia,MONDO:0004652
+zinc acetate,PUBCHEM.COMPOUND:11192,Burn injury,UMLS:C0006434
+metronidazole,CHEBI:6909,Female genital tract infection,UMLS:C1263758
+cefotetan,PUBCHEM.COMPOUND:53024,Bacterial infection caused by Klebsiella pneumoniae,UMLS:C0343402
+tetracycline,CHEBI:27902,Rocky mountain spotted fever,MONDO:0019359
+lidocaine,CHEBI:6456,urethritis,MONDO:0005297
+amikacin,CHEBI:2637,Urinary tract infection caused by Escherichia coli,UMLS:C0577708
+benzatropine,CHEBI:3048,Parkinson disease,MONDO:0005180
+metronidazole,CHEBI:6909,bacterial endocarditis,MONDO:0006669
+salicylic acid,CHEBI:16914,rheumatoid arthritis,MONDO:0008383
+triamcinolone,CHEBI:9667,Pruritus of genital organs,UMLS:C0033777
+chlorpromazine,CHEBI:3647,schizophrenia,MONDO:0005090
+desonide,CHEBI:204734,seborrheic dermatitis,MONDO:0006608
+cortisol,CHEBI:5783,Bacterial keratitis,UMLS:C0854211
+diphenhydramine,CHEBI:4636,seasonal allergic rhinitis,MONDO:0005324
+PGE1,CHEBI:15544,tetralogy of fallot,MONDO:0008542
+cefditoren,CHEBI:59343,Haemophilus influenzae pneumonia,UMLS:C0276026
+diflorasone diacetate,CHEBI:31483,Pruritus of genital organs,UMLS:C0033777
+torsemide,CHEBI:9637,Edema,HP:0000969
+diclofenac,CHEBI:47381,ankylosing spondylitis,MONDO:0005306
+estetrol,CHEBI:142773,Oral contraception,UMLS:C0029151
+alprazolam,CHEBI:2611,panic disorder,MONDO:0005383
+cortisol,CHEBI:5783,dermatitis,MONDO:0002406
+azlocillin,CHEBI:2956,Bacterial sepsis,UMLS:C0684256
+clavulanic acid,CHEBI:48947,Klebsiella cystitis,UMLS:C0520775
+crospovidone,CHEBI:185135,dry eye syndrome,MONDO:0006733
+fluoxetine,CHEBI:5118,panic disorder,MONDO:0005383
+alcaftadine,CHEBI:71023,atopic conjunctivitis,MONDO:0005642
+ergocalciferol,CHEBI:28934,vitamin D deficiency,MONDO:0100471
+ziconotide,CHEBI:142406,Severe pain,UMLS:C0278140
+trifluridine,CHEBI:75179,herpes simplex virus keratitis,MONDO:0015288
+tetracycline,CHEBI:27902,Bacterial keratitis,UMLS:C0854211
+salicylic acid,CHEBI:16914,tinea corporis,MONDO:0001461
+valganciclovir,CHEBI:63635,fetal cytomegalovirus syndrome,MONDO:0017409
+betamethasone,CHEBI:3077,ankylosing spondylitis,MONDO:0005306
+hydroxyurea,CHEBI:44423,Hemoglobin SS disease with crisis,UMLS:C0238425
+doxycycline,PUBCHEM.COMPOUND:54671203,listeriosis,MONDO:0005828
+nicotinic acid,CHEBI:15940,hypertriglyceridemia,MONDO:0005347
+rivaroxaban,CHEBI:68579,pulmonary embolism,MONDO:0005279
+prednisolone,CHEBI:8378,iritis,MONDO:0006814
+gefitinib,CHEBI:49668,non-small cell lung carcinoma,MONDO:0005233
+pemafibrate,CHEBI:228365,Abnormal circulating lipid concentration,HP:0003119
+fluocinolone acetonide,CHEBI:5108,pityriasis simplex,MONDO:0024343
+ephedrine,CHEBI:15407,bronchial disorder,MONDO:0001358
+triamcinolone,CHEBI:9667,humoral hypercalcemia of malignancy,MONDO:0043455
+oxytetracycline,CHEBI:133011,bronchitis,MONDO:0003781
+norfloxacin,CHEBI:100246,Female genital tract infection,UMLS:C1263758
+sulbactam,CHEBI:9321,Infection caused by carbapenem resistant Acinetobacter,UMLS:C2959527
+piperacillin,CHEBI:8232,Septicemia due to enterococcus,UMLS:C0588233
+amcinonide,CHEBI:31199,granuloma annulare,MONDO:0006554
+molnupiravir,CHEBI:180653,COVID-19,MONDO:0100096
+doxylamine,CHEBI:51380,urticaria,MONDO:0005492
+nateglinide,CHEBI:31897,type 2 diabetes mellitus,MONDO:0005148
+phenylephrine,CHEBI:8093,Mydriasis,HP:0011499
+ofloxacin,CHEBI:194135,bacterial pneumonia,MONDO:0004652
+prednisolone,CHEBI:8378,exanthem,MONDO:0006547
+norfloxacin,CHEBI:100246,acute gonococcal cervicitis,MONDO:0001080
+norfloxacin,CHEBI:100246,Gonorrhea of rectum,UMLS:C0275665
+thiabendazole,CHEBI:45979,ascariasis,MONDO:0005654
+cefuroxime,CHEBI:3515,rhinoscleroma,MONDO:0005945
+pyrimethamine,CHEBI:8673,Toxoplasmosis associated with acquired immunodeficiency syndrome,UMLS:C1720498
+chlorpromazine,CHEBI:3647,manic bipolar affective disorder,MONDO:0024612
+moxifloxacin,CHEBI:63611,Mycoplasma pneumoniae pneumonia,MONDO:0005867
+hydroxychloroquine,CHEBI:5801,Plasmodium vivax malaria,MONDO:0005921
+dasatinib,CHEBI:49375,"Leukemia, Myeloid, Chronic-Phase",UMLS:C0023474
+paclitaxel,CHEBI:45863,fallopian tube neoplasm,MONDO:0021092
+cefepime,CHEBI:478164,Proteus urinary tract infection,UMLS:C0577709
+ethchlorvynol,CHEBI:4882,insomnia,MONDO:0013600
+moxifloxacin,CHEBI:63611,Klebsiella pneumonia,MONDO:0030602
+esomeprazole,CHEBI:50275,Erosive esophagitis,UMLS:C0267055
+progesterone,CHEBI:17026,endometrial carcinoma,MONDO:0002447
+prednisone,CHEBI:8382,allergic rhinitis,MONDO:0011786
+aztreonam,CHEBI:94511,Pseudomonas aeruginosa infectious disease,MONDO:0040732
+mitoxantrone,CHEBI:50729,acute myeloid leukemia,MONDO:0018874
+paromomycin,CHEBI:7934,hepatic coma,MONDO:0001548
+chlorambucil,CHEBI:28830,classic Hodgkin lymphoma,MONDO:0009348
+flavoxate,CHEBI:5088,overactive bladder,MONDO:0006624
+clocortolone pivalate,CHEBI:59582,granuloma annulare,MONDO:0006554
+ergocalciferol,CHEBI:28934,vitamin deficiency disorder,MONDO:0024298
+caffeine,CHEBI:27732,Sinus headache,UMLS:C0037195
+fenofibrate,CHEBI:5001,"hyperlipidemia, familial combined, LPL related",MONDO:0007759
+5-fluorouracil,CHEBI:46345,gastric cancer,MONDO:0001056
+triamcinolone,CHEBI:9667,musculoskeletal system disorder,MONDO:0002081
+mitomycin C,CHEBI:27504,pancreatic adenocarcinoma,MONDO:0006047
+norethisterone,CHEBI:7627,Metrorrhagia,HP:0100608
+azilsartan medoxomil,CHEBI:68845,hypertensive disorder,MONDO:0005044
+bosutinib,CHEBI:39112,"blast phase chronic myelogenous leukemia, BCR-ABL1 positive",MONDO:0006115
+benzoic acid,CHEBI:30746,dermatomyositis,MONDO:0016367
+azathioprine,CHEBI:2948,pemphigus vulgaris,MONDO:0008219
+amikacin,CHEBI:2637,Diverticulitis of gastrointestinal tract,UMLS:C0349774
+naproxen,CHEBI:7476,Myalgia,HP:0003326
+piperacillin,CHEBI:8232,bacterial urinary tract infection,MONDO:0005247
+colchicine,CHEBI:27882,gout,MONDO:0005393
+rofecoxib,CHEBI:8887,rheumatoid arthritis,MONDO:0008383
+granisetron,CHEBI:94501,Chemotherapy-induced nausea and vomiting,UMLS:C0401160
+clofarabine,CHEBI:681569,acute lymphoblastic leukemia,MONDO:0004967
+aciclovir,CHEBI:2453,herpes simplex infectious disease,MONDO:0004609
+doxepin,CHEBI:4710,insomnia,MONDO:0013600
+amikacin,CHEBI:2637,Staphylococcal meningitis,UMLS:C0154640
+cefixime,CHEBI:93248,Bacterial otitis media,UMLS:C1698510
+levomefolic acid,CHEBI:136009,Premenstrual Dysphoric Disorder,UMLS:C0520676
+levofolinic acid,CHEBI:63606,small intestine cancer,MONDO:0000956
+ticarcillin,CHEBI:9587,pleural empyema,MONDO:0018667
+acemetacin,CHEBI:31162,rheumatic disorder,MONDO:0005554
+methoxsalen,CHEBI:18358,vitiligo,MONDO:0008661
+ambenonium,CHEBI:2627,myasthenia gravis,MONDO:0009688
+doxycycline,PUBCHEM.COMPOUND:54671203,Acute gonococcal urethritis,UMLS:C0275652
+magnesium oxide,CHEBI:31794,postmenopausal osteoporosis,MONDO:0008159
+zinc acetate,PUBCHEM.COMPOUND:11192,Rectal Pain,NCIT:C78587
+azithromycin,CHEBI:2955,blepharitis,MONDO:0004785
+butenafine,CHEBI:3238,dermatophytosis of groin and perianal area,MONDO:0001405
+colistin,CHEBI:34650,otitis externa,MONDO:0004795
+linagliptin,CHEBI:68610,type 2 diabetes mellitus,MONDO:0005148
+treprostinil,CHEBI:50861,chronic thromboembolic pulmonary hypertension,MONDO:0013024
+alclometasone dipropionate,CHEBI:31184,Lichen Simplex Chronicus,UMLS:C0149922
+esomeprazole,CHEBI:50275,gastric ulcer,MONDO:0001126
+piperacillin,CHEBI:8232,appendicitis,MONDO:0005649
+ruxolitinib,CHEBI:66919,acute graft versus host disease,MONDO:0020546
+norfloxacin,CHEBI:100246,Recurrent lower respiratory tract infections,HP:0002783
+minocycline,CHEBI:50694,pneumonia,MONDO:0005249
+eletriptan,CHEBI:50922,migraine disorder,MONDO:0005277
+benzalkonium,CHEBI:135611,Itching of ear,UMLS:C0849907
+bisoprolol,CHEBI:3127,hypertensive disorder,MONDO:0005044
+ceftriaxone,CHEBI:29007,staphylococcal pneumonia,MONDO:0005970
+ivabradine,CHEBI:85966,Angina pectoris,HP:0001681
+escitalopram,CHEBI:36791,generalized anxiety disorder,MONDO:0001942
+cortisol,CHEBI:5783,congenital adrenal hyperplasia,MONDO:0018479
+cefotaxime,CHEBI:94427,Serratia sepsis,UMLS:C0152973
+cefuroxime,CHEBI:3515,Escherichia coli septicemia,UMLS:C0276088
+norfloxacin,CHEBI:100246,bacterial conjunctivitis,MONDO:0006668
+fluorometholone,CHEBI:31625,Punctate keratopathy,UMLS:C0423234
+amikacin,CHEBI:2637,pneumonia caused by gram negative bacteria,MONDO:0041850
+ethambutol,CHEBI:4877,Acute tuberculosis,UMLS:C0275959
+estradiol valerate,CHEBI:16469,atrophic vulva,DOID:14275
+oxytetracycline,CHEBI:133011,trachoma,MONDO:0001249
+vemurafenib,CHEBI:63637,Malignant melanoma with BRAF V600E mutation,UMLS:C5394779
+cyclosporin A,CHEBI:4031,dry eye syndrome,MONDO:0006733
+clotrimazole,CHEBI:3764,vulvovaginal candidiasis,MONDO:0006014
+prednisone,CHEBI:8382,gout,MONDO:0005393
+norfloxacin,CHEBI:100246,streptococcal pneumonia,MONDO:0005972
+dextromethorphan,CHEBI:4470,Cough,HP:0012735
+ampicillin,CHEBI:28971,Female genital tract infection,UMLS:C1263758
+cefpodoxime,CHEBI:3504,acute gonococcal cervicitis,MONDO:0001080
+ephedrine,CHEBI:15407,Sinus headache,UMLS:C0037195
+dexpanthenol,CHEBI:27373,Contact dermatitis caused by urushiol from Pacific poison oak,UMLS:C0263283
+foslevodopa,CHEBI:192509,Parkinson disease,MONDO:0005180
+amoxicillin,CHEBI:2676,bacterial urinary tract infection,MONDO:0005247
+prednisolone,CHEBI:8378,aspiration pneumonitis,MONDO:0002572
+simvastatin,CHEBI:9150,homozygous familial hypercholesterolemia,MONDO:0018328
+carbinoxamine,CHEBI:3398,common cold,MONDO:0005709
+ceftizoxime,CHEBI:553473,streptococcal meningitis,MONDO:0001316
+atenolol,CHEBI:2904,Angina pectoris,HP:0001681
+magnesium hydroxide,PUBCHEM.COMPOUND:73981,gastroesophageal reflux disease,MONDO:0007186
+tetracycline,CHEBI:27902,gonorrhea,MONDO:0004277
+5-fluorouracil,CHEBI:46345,actinic keratosis,MONDO:0005173
+azelastine,CHEBI:2950,vasomotor rhinitis,MONDO:0006004
+bromocriptine,CHEBI:3181,postencephalitic Parkinson disease,MONDO:0001945
+cortisol,CHEBI:5783,inflammatory bowel disease,MONDO:0005265
+prednisolone,CHEBI:8378,contact dermatitis,MONDO:0005480
+cefpodoxime,CHEBI:3504,Infective otitis media,UMLS:C0729586
+vismodegib,CHEBI:66903,basal cell carcinoma,MONDO:0020804
+ciprofloxacin,CHEBI:100241,Urinary tract infection caused by Escherichia coli,UMLS:C0577708
+imipenem,CHEBI:471744,peritonitis,MONDO:0004522
+sulfacetamide,CHEBI:63845,blepharoconjunctivitis,MONDO:0002307
+diphenidol,CHEBI:4638,central nervous system origin vertigo,MONDO:0002317
+cetirizine,CHEBI:3561,vasomotor rhinitis,MONDO:0006004
+topiramate,CHEBI:63631,Focal aware seizure,HP:0002349
+ticarcillin,CHEBI:9587,Abdominal Infection,UMLS:C1112209
+loracarbef,CHEBI:47544,streptococcal pneumonia,MONDO:0005972
+ceftriaxone,CHEBI:29007,acute gonococcal endometritis,MONDO:0004264
+celecoxib,CHEBI:41423,ankylosing spondylitis,MONDO:0005306
+macitentan,CHEBI:76607,pulmonary arterial hypertension,MONDO:0015924
+desonide,CHEBI:204734,Crohn's disease in remission,UMLS:C1960764
+clarithromycin,CHEBI:3732,Streptococcal tonsillitis,UMLS:C0275804
+clocortolone pivalate,CHEBI:59582,Pruritus Ani,UMLS:C0033775
+trametinib,CHEBI:75998,Metastatic non-small cell lung cancer,UMLS:C0278987
+ceftriaxone,CHEBI:29007,meningococcal meningitis,MONDO:0018059
+vancomycin,CHEBI:28001,staphylococcal pneumonia,MONDO:0005970
+(-)-adrenaline,CHEBI:28918,toxic shock syndrome,MONDO:0001881
+tioconazole,CHEBI:77898,vulvovaginal candidiasis,MONDO:0006014
+trovafloxacin,CHEBI:9763,Postnatal infection,UMLS:C1278797
+cefotaxime,CHEBI:94427,Bacterial sepsis,UMLS:C0684256
+paracetamol,CHEBI:46195,Tension-type headache,HP:0012228
+minocycline,CHEBI:50694,yaws,MONDO:0006019
+chlorambucil,CHEBI:28830,follicular lymphoma,MONDO:0018906
+azatadine,CHEBI:2946,vasomotor rhinitis,MONDO:0006004
+cefamandole,CHEBI:3480,Osteomyelitis caused by Staphylococcus aureus,UMLS:C1997728
+azathioprine,CHEBI:2948,polyarteritis nodosa,MONDO:0019170
+methdilazine,CHEBI:6823,Nasal congestion,HP:0001742
+dexbrompheniramine,CHEBI:59269,allergic rhinitis,MONDO:0011786
+cefepime,CHEBI:478164,Pseudomonas aeruginosa infectious disease,MONDO:0040732
+tofacitinib,CHEBI:71200,rheumatoid arthritis,MONDO:0008383
+cefaclor,CHEBI:3478,staphylococcus aureus infection,MONDO:0005545
+lonafarnib,CHEBI:47097,Hutchinson-Gilford progeria syndrome,MONDO:0008310
+ethionamide,CHEBI:4885,Pulmonary mycobacterium avium-intracellulare infection,UMLS:C0700226
+desonide,CHEBI:204734,exanthem,MONDO:0006547
+cefapirin,CHEBI:554446,streptococcal pneumonia,MONDO:0005972
+(-)-adrenaline,CHEBI:28918,Wheezing,HP:0030828
+methylprednisolone,CHEBI:6888,Diamond-Blackfan anemia,MONDO:0015253
+nicotinic acid,CHEBI:15940,"hyperlipidemia, familial combined, LPL related",MONDO:0007759
+triamcinolone,CHEBI:9667,pemphigus,MONDO:0006594
+bromodiphenhydramine,CHEBI:59177,Nasal congestion,HP:0001742
+tazobactam,CHEBI:9421,cholecystitis,MONDO:0002155
+cefotetan,PUBCHEM.COMPOUND:53024,Pneumonia caused by Escherichia coli,UMLS:C0276089
+pantoprazole,CHEBI:7915,multiple endocrine neoplasia,DOID:3125
+amisulpride,CHEBI:64045,Chronic schizophrenia,UMLS:C0221765
+lomitapide,CHEBI:72297,homozygous familial hypercholesterolemia,MONDO:0018328
+methylphenobarbital,CHEBI:6758,anxiety,MONDO:0011918
+lansoprazole,CHEBI:6375,gastroesophageal reflux disease,MONDO:0007186
+salicylic acid,CHEBI:16914,tinea pedis,MONDO:0005984
+carboprost,CHEBI:3403,Post-partum hemorrhage,HP:0011891
+ciprofloxacin,CHEBI:100241,Acute osteomyelitis,UMLS:C0158371
+flecainide,CHEBI:75984,Paroxysmal atrial fibrillation,HP:0004757
+prednisone,CHEBI:8382,follicular lymphoma,MONDO:0018906
+cefamandole,CHEBI:3480,Enterobacteriaceae Infections,UMLS:C0014347
+imipenem,CHEBI:471744,Serratia Infections,UMLS:C0085394
+probenecid,CHEBI:8426,gout,MONDO:0005393
+glymidine,CHEBI:146188,type 2 diabetes mellitus,MONDO:0005148
+dexbrompheniramine,CHEBI:59269,urticaria,MONDO:0005492
+ethinamate,CHEBI:4884,insomnia,MONDO:0013600
+codeine,CHEBI:16714,Tension-type headache,HP:0012228
+cefonicid,CHEBI:3491,Streptococcal bacteremia,UMLS:C0152964
+cortisol,CHEBI:5783,classic Hodgkin lymphoma,MONDO:0009348
+lamivudine,CHEBI:63577,chronic hepatitis B virus infection,MONDO:0005366
+desloratadine,CHEBI:291342,common cold,MONDO:0005709
+sulbactam,CHEBI:9321,Enterobacteriaceae Infections,UMLS:C0014347
+posaconazole,CHEBI:64355,Pharyngeal candidiasis,UMLS:C0343861
+posaconazole,CHEBI:64355,fusariosis,MONDO:0016426
+histamine,CHEBI:18295,osteoarthritis,MONDO:0005178
+alprazolam,CHEBI:2611,generalized anxiety disorder,MONDO:0001942
+acetylcysteine,CHEBI:28939,Pincer nail deformity,UMLS:C0423806
+pantoprazole,CHEBI:7915,peptic ulcer disease,MONDO:0004247
+butenafine,CHEBI:3238,tinea corporis,MONDO:0001461
+norethisterone,CHEBI:7627,acne,MONDO:0011438
+ziprasidone,CHEBI:10119,bipolar disorder,MONDO:0004985
+bortezomib,CHEBI:52717,plasma cell myeloma,MONDO:0009693
+demeclocycline,UNII:5R5W9ICI6O,bacterial urinary tract infection,MONDO:0005247
+ephedrine,CHEBI:15407,rhinitis,MONDO:0003014
+clomiphene,CHEBI:3752,female infertility,MONDO:0021124
+betamethasone,CHEBI:3077,synovitis,MONDO:0002400
+sibutramine,CHEBI:9137,obesity disorder,MONDO:0011122
+paracetamol,CHEBI:46195,common cold,MONDO:0005709
+cyclophosphamide,CHEBI:4027,histiocytic sarcoma,MONDO:0019479
+minocycline,CHEBI:50694,pharyngitis,MONDO:0002258
+levofloxacin,CHEBI:63598,streptococcal pneumonia,MONDO:0005972
+moracizine,CHEBI:6997,Ventricular arrhythmia,HP:0004308
+aspirin,CHEBI:15365,Back pain,HP:0003418
+trametinib,CHEBI:75998,metastatic melanoma,MONDO:0005191
+cephradine,CHEBI:3547,streptococcal pneumonia,MONDO:0005972
+ceftizoxime,CHEBI:553473,Serratia sepsis,UMLS:C0152973
+cefazolin,CHEBI:474053,Bacterial urinary infection,UMLS:C0729524
+colestipol,PUBCHEM.COMPOUND:3084661,hyperlipidemia,MONDO:0021187
+quinestrol,CHEBI:8716,postmenopausal atrophic vaginitis,MONDO:0001410
+cortisol,CHEBI:5783,primary cutaneous T-cell non-Hodgkin lymphoma,MONDO:0000607
+amikacin,CHEBI:2637,Pseudomonas aeruginosa infectious disease,MONDO:0040732
+minocycline,CHEBI:50694,actinomycosis,MONDO:0005631
+phenylephrine,CHEBI:8093,seasonal allergic rhinitis,MONDO:0005324
+meropenem,CHEBI:43968,pneumococcal meningitis,MONDO:0006913
+ibuprofen,CHEBI:5855,Fever,HP:0001945
+diflorasone diacetate,CHEBI:31483,Lichen Simplex Chronicus,UMLS:C0149922
+methylprednisolone,CHEBI:6888,discoid lupus erythematosus,MONDO:0019558
+salicylamide,CHEBI:32114,headache disorder,MONDO:0021146
+guaiacol,CHEBI:28591,common cold,MONDO:0005709
+carmustine,CHEBI:3423,malignant glioma,MONDO:0100342
+diphenylpyraline,CHEBI:59788,familial dermatographia,MONDO:0007448
+piperacillin,CHEBI:8232,Urinary tract infection caused by Escherichia coli,UMLS:C0577708
+ciprofloxacin,CHEBI:100241,Klebsiella cystitis,UMLS:C0520775
+triamcinolone,CHEBI:9667,inflammatory bowel disease,MONDO:0005265
+mometasone,CHEBI:6970,allergic asthma,MONDO:0004784
+methylphenidate,CHEBI:6887,narcolepsy,MONDO:0021107
+minocycline,CHEBI:50694,acne,MONDO:0011438
+bromocriptine,CHEBI:3181,hyperprolactinemia,MONDO:0005804
+ciprofloxacin,CHEBI:100241,osteomyelitis,MONDO:0005246
+acetazolamide,CHEBI:27690,Edema,HP:0000969
+dutasteride,CHEBI:521033,benign prostatic hyperplasia,MONDO:0010811
+carmustine,CHEBI:3423,plasma cell myeloma,MONDO:0009693
+cefditoren,CHEBI:59343,staphylococcus aureus infection,MONDO:0005545
+sofosbuvir,CHEBI:85083,Decompensated cirrhosis of liver,UMLS:C1619727
+oxedrine,CHEBI:29081,Rhinorrhea,HP:0031417
+ceftizoxime,CHEBI:553473,Proteus urinary tract infection,UMLS:C0577709
+ceftizoxime,CHEBI:553473,Klebsiella cystitis,UMLS:C0520775
+ceftizoxime,CHEBI:553473,Osteomyelitis caused by Staphylococcus aureus,UMLS:C1997728
+sulfamethizole,CHEBI:9331,Bacterial urinary infection,UMLS:C0729524
+cortisol,CHEBI:5783,granuloma annulare,MONDO:0006554
+norethisterone,CHEBI:7627,Secondary amenorrhea,HP:0000869
+ketoprofen,CHEBI:6128,osteoarthritis,MONDO:0005178
+budesonide,CHEBI:3207,IgA glomerulonephritis,MONDO:0005342
+ceftibuten,CHEBI:3510,Infective otitis media,UMLS:C0729586
+ciprofloxacin,CHEBI:100241,Proteus pneumonia,UMLS:C1260917
+tamibarotene,CHEBI:32181,acute promyelocytic leukemia,MONDO:0012883
+chlophedianol,CHEBI:135207,common cold,MONDO:0005709
+ceritinib,CHEBI:78432,Anaplastic lymphoma kinase fusion oncogene positive non-small cell lung cancer,UMLS:C5394780
+hydroxyzine,CHEBI:5818,atopic conjunctivitis,MONDO:0005642
+furosemide,CHEBI:47426,Edema,HP:0000969
+ciprofloxacin,CHEBI:100241,Acute bacterial bronchitis,UMLS:C0339933
+copanlisib,UNII:WI6V529FZ9,follicular lymphoma,MONDO:0018906
+rifamycin SV,CHEBI:26580,Traveler's diarrhea,UMLS:C0277528
+prednisone,CHEBI:8382,primary cutaneous T-cell non-Hodgkin lymphoma,MONDO:0000607
+prednisolone,CHEBI:8378,hypersensitivity pneumonitis,MONDO:0017853
+cefpodoxime,CHEBI:3504,Klebsiella cystitis,UMLS:C0520775
+tandospirone,CHEBI:145673,bruxism,MONDO:0002443
+cefapirin,CHEBI:554446,Haemophilus influenzae pneumonia,UMLS:C0276026
+dexibuprofen,CHEBI:43415,Fever,HP:0001945
+prednisolone,CHEBI:8378,Transplanted organ rejection,UMLS:C0345468
+amphotericin B,CHEBI:2682,sinusitis,MONDO:0005961
+cromoglicic acid,CHEBI:59773,systemic mastocytosis,MONDO:0016586
+zonisamide,CHEBI:10127,Lewy body dementia,MONDO:0007488
+cefixime,CHEBI:93248,Group A Streptococcal Infections,UMLS:C0554628
+prednisone,CHEBI:8382,juvenile idiopathic arthritis,MONDO:0011429
+cefotaxime,CHEBI:94427,osteomyelitis,MONDO:0005246
+norfloxacin,CHEBI:100246,Klebsiella pneumonia,MONDO:0030602
+prednisolone,CHEBI:8378,angioedema,MONDO:0010481
+ledipasvir,CHEBI:85089,chronic hepatitis C virus infection,MONDO:0005354
+cortisol,CHEBI:5783,Corneal Abrasions,UMLS:C0010032
+oxcarbazepine,CHEBI:7824,Focal aware seizure,HP:0002349
+cefuroxime,CHEBI:3515,Haemophilus influenzae pneumonia,UMLS:C0276026
+imiquimod,CHEBI:36704,actinic keratosis,MONDO:0005173
+cefmetazole,CHEBI:3489,Pneumonia caused by Escherichia coli,UMLS:C0276089
+mometasone,CHEBI:6970,allergic rhinitis,MONDO:0011786
+carbenicillin,CHEBI:3393,Bacterial urinary infection,UMLS:C0729524
+cyclophosphamide,CHEBI:4027,acute myeloblastic leukemia without maturation,MONDO:0005224
+triprolidine,CHEBI:84116,Rhinorrhea,HP:0031417
+betamethasone,CHEBI:3077,Laryngeal edema,HP:0012027
+perampanel,CHEBI:71013,Secondarily generalized seizures,UMLS:C0270838
+dyclonine,CHEBI:4724,Skin Irritation,NCIT:C50743
+doxycycline,PUBCHEM.COMPOUND:54671203,lymphogranuloma venereum,MONDO:0005834
+methylprednisolone,CHEBI:6888,Post traumatic osteoarthritis,UMLS:C2894027
+oxytetracycline,CHEBI:133011,Q fever,MONDO:0019186
+desoximetasone,CHEBI:691037,Psoriasis of scalp,UMLS:C0406326
+prednisolone,CHEBI:8378,dacryocystitis,MONDO:0004926
+amphotericin B,CHEBI:2682,granuloma inguinale,MONDO:0005777
+methylergonovine,CHEBI:92607,Post-partum hemorrhage,HP:0011891
