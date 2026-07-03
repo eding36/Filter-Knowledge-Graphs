@@ -9,8 +9,6 @@ Usage:
 Connection details come from the NEO4J_URI / NEO4J_USER / NEO4J_PASSWORD
 environment variables (see config.py for defaults).
 
-Experiments 1-4 are described in the project slides:
-https://docs.google.com/presentation/d/1cqrqE6FMP8mbnYF-cO_YjaeQHnS2aoX7GpGtFm-L2F4/edit
 """
 
 import argparse
@@ -85,7 +83,7 @@ def fetch_therapeutic_triples(driver):
 
 
 def experiment_1(driver):
-    """Filter good (curated) knowledge sources, then export triples."""
+    """Filter high quality (curated) knowledge sources, then export triples."""
     remove_hetionet_edges(driver)
     remove_intact_edges(driver)
     remove_gwas_catalog_edges(driver)
@@ -94,7 +92,7 @@ def experiment_1(driver):
 
 
 def experiment_2(driver):
-    """Filter bad (uncurated) knowledge sources, then export triples."""
+    """Filter uncurated knowledge sources, then export triples."""
     remove_text_mining_edges(driver)
     remove_tiga_edges(driver)
     remove_low_correlated_string_ppi_edges(driver)

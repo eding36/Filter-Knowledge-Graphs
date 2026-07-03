@@ -1,11 +1,16 @@
 # Filter-KG-Experiments
 
 Runs filtering protocols on a Neo4j biomedical knowledge graph. Each experiment
-deletes a category of edges (or holds out a validation split) so that downstream
-link-prediction models can be trained/evaluated on a cleaned graph.
+deletes a category of edges (or holds out a validation split) before embedding the graph, as to evaluate the effect of edge filtering on transfer learning tasks such as edge prediction (a classification task).
 
-Experiments are described in the
-[project slides](https://docs.google.com/presentation/d/1cqrqE6FMP8mbnYF-cO_YjaeQHnS2aoX7GpGtFm-L2F4/edit).
+# Motivation
+Graph embedding methods such as Node2Vec (n2v) and GraphSAGE are extremely effective in learning the relationship between nodes. Thus, in drug repurposing applications where biomedical knowledge graphs are embedded, these methods may lead to data leakage in which the embeddings already contain information about drug-disease relationships. We hypothesize that this may overinflate model performance in transfer learning tasks such as predicting whether a drug is an indication or a contraindication for a disease. 
+
+Each experiment generates a filtered subgraph that will be embedded, as well as drug-disease combinations that will be used as the training set for downstream classification tasks (e.g. predicting whether a drug-disease edge is a contraindication or an indication.)
+
+Experiments 1 and 2 test the effect on data source quality on downstream model performance on drug repurposing tasks
+
+Experiments 3 and 4 examine whether including drug, target, and disease relationships in the graph prior to graph embedding overinflates the model performance on downstream drug repurposing tasks.
 
 ## Setup
 
@@ -28,8 +33,8 @@ installed (the batched deletes use `apoc.periodic.iterate`).
 ## Running an experiment
 
 ```bash
-python main.py --experiment 1   # filter good (curated) knowledge sources
-python main.py --experiment 2   # filter bad (uncurated) knowledge sources
+python main.py --experiment 1   # filter out good (curated) knowledge sources
+python main.py --experiment 2   # filter out bad (uncurated) knowledge sources
 python main.py --experiment 3   # remove same-type (drug-drug/target-target/disease-disease) edges
 python main.py --experiment 4   # data-leakage split of drug-disease doublets
 ```
@@ -44,13 +49,3 @@ See the commented Cypher blocks at the bottom of [main.py](main.py) for the
 `apoc.export.csv.query` calls and the required `apoc.conf` / transaction-size
 setup.
 
-## Layout
-
-| Path | Purpose |
-| --- | --- |
-| `main.py` | Entry point; selects and runs an experiment. |
-| `config.py` | Connection + output-path configuration. |
-| `functions/functions_for_filtering_curated_sources.py` | Remove curated sources (intact, gwas catalog). |
-| `functions/functions_for_filtering_uncurated_sources.py` | Remove uncurated sources (text mining, tiga, low-confidence STRING, hetionet). |
-| `functions/functions_for_filtering_dd_tt_cc.py` | Remove same-type edges (drug-drug, target-target, disease-disease). |
-| `functions/data_leakage_exp_functions.py` | Train/external splits + external-edge removal. |
